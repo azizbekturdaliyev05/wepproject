@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(135, 214, 224);
+  }
+  h1 {
+    color: rgba(0, 0, 255, 0);
+  }
+  p {
+    color: rgba(0, 255, 115, 0.027);
+  }
+  body{
+background-image: red;
+background-color: aquamarine;
+    }
